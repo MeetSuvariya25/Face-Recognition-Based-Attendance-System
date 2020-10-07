@@ -248,7 +248,7 @@ def TrackImages():
     msg = ''
     i = 0
     j = 0
-    recognizer =cv2.face.LBPHFaceRecognizer_create() #cv2.createLBPHFaceRecognizer()
+    recognizer =cv2.face.LBPHFaceRecognizer_create() 
     exists3 = os.path.isfile("Pass_Train\Trainner.yml")
     if exists3:
         recognizer.read("Pass_Train\Trainner.yml")
