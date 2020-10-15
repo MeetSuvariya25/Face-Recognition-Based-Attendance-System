@@ -12,6 +12,10 @@ There are total 4 parts of this projects.
 2. Take Images of students(Face detection)
 3. Save Profile(Train Images)
 4. Taking Attandance(Face Recognition)
+
+
+!["GUI"](https://miro.medium.com/max/875/1*w1Jss2p0eduiZ4TA7b-P5Q.png)
+
 ---
 
 You can get whole discription of this project on my blog.
