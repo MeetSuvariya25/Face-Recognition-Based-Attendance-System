@@ -14,7 +14,7 @@ There are total 4 parts of this projects.
 4. Taking Attandance(Face Recognition)
 
 
-!["GUI"](https://miro.medium.com/max/875/1*w1Jss2p0eduiZ4TA7b-P5Q.png)
+
 
 ---
 
