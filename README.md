@@ -1,5 +1,6 @@
 # Face-Recognition-Based-Attendance-System-with-GUI-using-OpenCV
 
+## PurPose:
 The basic purpose of this project is to take attendance using face detection. This program makes CSV file of present attendees automatically After successful face detection. Also, It will make a CSV file for registered student's info.
 
 I made this program using these libraries. OpenCV, Numpy, OS, Pandas, Tkinter.
