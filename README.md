@@ -14,7 +14,26 @@ There are total 4 parts of this projects.
 4. Taking Attandance(Face Recognition)
 
 
+### Working 
+If you don't have required laibreries then firat you need to install that.
 
+OpenCV
+>pip install OpenCV-python
+
+Numpy
+>pip install numpy
+
+Pandas
+>pip install pandas
+
+Os 
+>pip install os
+
+Tkinter 
+>pip install tkinter
+
+Now For run this project you need 'haarcascade_frontalface_default.xml' along with this python file which contains the haar cascade features of a face.
+Now you are good to go.  
 
 ---
 
