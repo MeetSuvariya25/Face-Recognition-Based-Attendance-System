@@ -42,5 +42,6 @@ If person will detected succesfully then it will save attendance in one CSV file
 
 ---
 For a detailed description, you can read my blog from the following link.
+
 https://medium.com/@meetsuvariya/face-recognition-based-attendance-system-with-gui-using-opencv-and-tkinter-2d5ce7422aa5
 
