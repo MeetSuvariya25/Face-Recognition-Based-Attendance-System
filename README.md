@@ -41,4 +41,6 @@ First user have to register new students for that they have to enter student nam
 If person will detected succesfully then it will save attendance in one CSV file and it will save that CSV file into one perticuler folder.This Auto genratation of CSV file is date wise which means it will save the attendance of one day in one CSV file.  
 
 ---
+For a detailed description, you can read my blog from the following link.
+https://medium.com/@meetsuvariya/face-recognition-based-attendance-system-with-gui-using-opencv-and-tkinter-2d5ce7422aa5
 
